@@ -5,7 +5,7 @@
     "vue-google-charts": "^1.1.0"
   },"scripts": {
     
-    "build": "cd ClientApp && npm run build"
+    "build": "cd clientapp && npm run build"
     
   }
 }
