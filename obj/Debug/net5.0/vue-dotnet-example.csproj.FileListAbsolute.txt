@@ -26,3 +26,34 @@
 /Users/bhargavbachina/Projects/dotnet/vue-dotnet-example/obj/Debug/net5.0/ref/vue-dotnet-example.dll
 /Users/bhargavbachina/Projects/dotnet/vue-dotnet-example/obj/Debug/net5.0/vue-dotnet-example.pdb
 /Users/bhargavbachina/Projects/dotnet/vue-dotnet-example/obj/Debug/net5.0/vue-dotnet-example.genruntimeconfig.cache
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\appsettings.json
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\vue-dotnet-example.StaticWebAssets.xml
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\vue-dotnet-example.exe
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\vue-dotnet-example.deps.json
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\vue-dotnet-example.runtimeconfig.json
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\vue-dotnet-example.runtimeconfig.dev.json
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\vue-dotnet-example.dll
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\vue-dotnet-example.pdb
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\vue-dotnet-example.csproj.AssemblyReference.cache
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\vue-dotnet-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\vue-dotnet-example.AssemblyInfoInputs.cache
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\vue-dotnet-example.AssemblyInfo.cs
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\vue-dotnet-example.csproj.CoreCompileInputs.cache
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\vue-dotnet-example.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\vue-dotnet-example.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\scopedcss\bundle\vue-dotnet-example.styles.css
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\staticwebassets\vue-dotnet-example.StaticWebAssets.Manifest.cache
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\vue-dotnet-example.RazorTargetAssemblyInfo.cache
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\vue-dotnet-example.csproj.CopyComplete
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\vue-dotnet-example.dll
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\refint\vue-dotnet-example.dll
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\vue-dotnet-example.pdb
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\vue-dotnet-example.genruntimeconfig.cache
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\obj\Debug\net5.0\ref\vue-dotnet-example.dll
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\package-lock.json
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net5.0\package.json

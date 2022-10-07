@@ -1,30 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bhargavbachina/Projects/dotnet/vue-dotnet-example/vue-dotnet-example.csproj": {}
+    "C:\\Users\\MikkoOjares\\Documents\\Training\\EXAMPLE VUE\\vue-dotnet-example\\vue-dotnet-example.csproj": {}
   },
   "projects": {
-    "/Users/bhargavbachina/Projects/dotnet/vue-dotnet-example/vue-dotnet-example.csproj": {
+    "C:\\Users\\MikkoOjares\\Documents\\Training\\EXAMPLE VUE\\vue-dotnet-example\\vue-dotnet-example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bhargavbachina/Projects/dotnet/vue-dotnet-example/vue-dotnet-example.csproj",
+        "projectUniqueName": "C:\\Users\\MikkoOjares\\Documents\\Training\\EXAMPLE VUE\\vue-dotnet-example\\vue-dotnet-example.csproj",
         "projectName": "vue-dotnet-example",
-        "projectPath": "/Users/bhargavbachina/Projects/dotnet/vue-dotnet-example/vue-dotnet-example.csproj",
-        "packagesPath": "/Users/bhargavbachina/.nuget/packages/",
-        "outputPath": "/Users/bhargavbachina/Projects/dotnet/vue-dotnet-example/obj/",
+        "projectPath": "C:\\Users\\MikkoOjares\\Documents\\Training\\EXAMPLE VUE\\vue-dotnet-example\\vue-dotnet-example.csproj",
+        "packagesPath": "C:\\Users\\MikkoOjares\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MikkoOjares\\Documents\\Training\\EXAMPLE VUE\\vue-dotnet-example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/bhargavbachina/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\MikkoOjares\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -49,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

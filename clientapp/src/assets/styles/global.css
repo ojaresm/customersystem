@@ -1,6 +1,6 @@
 .header {
     padding: 2%;
-    background-color: rgb(131, 53, 241);
+    background-color: rgb(83, 192, 81);
     font-size: 50px;
     text-align: center;
     width: 100%;
@@ -25,7 +25,7 @@ h1 {
 
 .display-board {
   width: 100%;
-  background-color: rgba(179, 242, 163, 0.719);
+  background-color: rgba(207, 72, 14, 0.719);
   padding: 5%;
 }
 
@@ -38,3 +38,23 @@ h1 {
 .mrgnbtm {
   margin-top: 20px;
 }
+
+
+
+.createCustomer {
+  background-color: green;
+}
+
+
+.customers {
+  background-color: green;
+  
+}
+
+.customerApp {
+   background-size: cover;
+ background-repeat: no-repeat;
+  
+}
+
+

@@ -1,6 +1,6 @@
 <template>
     <div class="header">
-        Vue.js With .NET
+        Customer data system (Vue.js + .NET)
     </div>
 </template>
 

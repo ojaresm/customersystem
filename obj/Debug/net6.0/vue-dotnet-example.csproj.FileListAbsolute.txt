@@ -1,0 +1,6 @@
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net6.0\vue-dotnet-example.exe
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net6.0\vue-dotnet-example.dll
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MikkoOjares\Documents\Training\EXAMPLE VUE\vue-dotnet-example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
