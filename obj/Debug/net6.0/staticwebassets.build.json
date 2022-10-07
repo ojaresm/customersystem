@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iaYIWd72y9vH7eT4EdrK8JecM2Pk5dXM3Q+L/MMKGXY=",
+  "Source": "vue-dotnet-example",
+  "BasePath": "_content/vue-dotnet-example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

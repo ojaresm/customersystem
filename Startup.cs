@@ -19,6 +19,7 @@ namespace vue_dotnet_example
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+
         }
 
         public IConfiguration Configuration { get; }
@@ -28,6 +29,10 @@ namespace vue_dotnet_example
         {
 
             services.AddControllers();
+            services.AddSpaStaticFiles(configuration =>
+            {
+                configuration.RootPath = "ClientApp/dist";
+            });
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "vue_dotnet_example", Version = "v1" });
@@ -43,6 +48,8 @@ namespace vue_dotnet_example
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "vue_dotnet_example v1"));
             }
+
+            
 
             app.UseHttpsRedirection();
 
